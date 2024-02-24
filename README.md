@@ -1,0 +1,1 @@
+React Redux Toolkit practice, by creating a simple Counter React App
